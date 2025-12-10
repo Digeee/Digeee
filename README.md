@@ -73,17 +73,18 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=digeee&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED " alt="digeee" /></p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=digeee&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" alt="Top Languages" width="400" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&locale=en&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED " alt="digeee" /></p>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&locale=en&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" alt="GitHub Stats" width="400" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF " alt="digeee" /></p>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak" width="400" />
+
+*Streak stats may take a moment to load (Heroku free tier)*
 
 </div>
-
----
-
-<div align="center">
 
 ### 💫 *"Code. Commit. Repeat"* ☕
 

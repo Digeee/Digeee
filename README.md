@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=7C3AED&center=true&vCenter=true&lines=👋+Hi,+I'm+Digevan" alt="Typing Animation" />
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&lines=💻+Passionate+FullStack+Developer+from+Sri+Lanka" alt="Subtitle Animation" />
-</div>
+<h1 align="center">👋 Hi, I'm Digevan</h1>
+<h3 align="center">💻 Passionate FullStack Developer from Sri Lanka</h3>
 
 <div align="center">
   

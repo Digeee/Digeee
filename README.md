@@ -8,8 +8,8 @@
   </h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=digeee&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/digeee?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1e1e2e" alt="followers" />
+    <img src="https://komarev.com/ghpvc/?username=Digeee&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Digeee?label=Followers&style=for-the-badge&color=7C3AED&labelColor=1e1e2e" alt="followers" />
   </p>
 </div>
 
@@ -117,13 +117,13 @@ const digevan = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Digeee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Digeee&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" width="49%" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=digeee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" width="99%" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digeee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Digeee&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" width="99%" alt="Contribution Graph" />
 </div>
 
 ---
@@ -131,7 +131,7 @@ const digevan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=digeee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Digeee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -139,13 +139,13 @@ const digevan = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digeee&theme=github_dark" alt="Profile Summary" width="99%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Digeee&theme=github_dark" alt="Profile Summary" width="99%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digeee&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=digeee&theme=github_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=digeee&theme=github_dark&utcOffset=5.5" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Digeee&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Digeee&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Digeee&theme=github_dark&utcOffset=5.5" width="32%" />
 </div>
 
 ---
@@ -154,7 +154,7 @@ const digevan = {
 
 <div align="center">
 
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=digeee&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF)](https://digeee.github.io/Portfolio/)
+[![WanLanka Users - Laravel Application](https://github-readme-stats.vercel.app/api/pin/?username=digeee&repo=WanLanka_Users&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF)](https://github.com/Digeee/WanLanka_Users)
 
 </div>
 
@@ -185,7 +185,7 @@ const digevan = {
   
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-**⭐ From [digeee](https://github.com/digeee) | Let's build something amazing together! 🚀**
+**⭐ From [Digeee](https://github.com/Digeee) | Let's build something amazing together! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
 

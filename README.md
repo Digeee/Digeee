@@ -1,96 +1,130 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hi,%20I'm%20Digevan&fontSize=70&animation=fadeIn&fontAlignY=35" />
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hi,%20I'm%20Digevan&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" /&gt;
+  
+  &lt;h3&gt;
+    &lt;a href="https://git.io/typing-svg"&gt;
+      &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=FullStack+Developer;AI+%26+n8n+Specialist;MERN+Stack+Enthusiast;React+Native+Learner" alt="Typing SVG" /&gt;
+    &lt;/a&gt;
+  &lt;/h3&gt;
 
-  <h3>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=FullStack+Developer;AI+%26+n8n+Specialist;MERN+Stack+Enthusiast;React+Native+Learner" alt="Typing SVG" />
-    </a>
-  </h3>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=digeee&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-  </p>
-</div>
-
----
-
-## ⚡ Quick Start
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 What I'm Up To</h3>
-      <ul>
-        <li>🔭 Currently building <b>AI Workflows</b> with <b>n8n</b></li>
-        <li>🌱 Mastering <b>React Native</b> for mobile magic</li>
-        <li>👨‍💻 Explore my <a href="https://digeee.github.io/Portfolio/">Portfolio</a></li>
-        <li>💬 Ask me about <b>Laravel & MERN</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
-    </td>
-  </tr>
-</table>
+  &lt;p&gt;
+    &lt;img src="https://komarev.com/ghpvc/?username=digeee&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile Views" /&gt;
+  &lt;/p&gt;
+&lt;/div&gt;
 
 ---
 
-## 🛠 My Digital Toolbox
+## 🚀 What I'm Up To
 
-### 🎨 Frontend & Mobile
-> Creating seamless user experiences with modern frameworks.
-
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react,vue,ts,js" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=react,flutter,android" /> |
-
-### ⚙️ Backend & Infrastructure
-> Building robust, scalable server-side architectures.
-
-| | | |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=laravel,nodejs,php" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" /> |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=digeee&show_icons=true&theme=radical&layout=compact&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" width="43%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF&hide_border=true" width="100%" />
-</div>
+&lt;table align="center"&gt;
+  &lt;tr&gt;
+    &lt;td width="50%" valign="top"&gt;
+      &lt;h3&gt;🎯 Current Focus&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;🔭 Building &lt;b&gt;AI Workflows&lt;/b&gt; with &lt;b&gt;n8n&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;🌱 Mastering &lt;b&gt;React Native&lt;/b&gt; for mobile magic&lt;/li&gt;
+        &lt;li&gt;🎨 Crafting seamless &lt;b&gt;Full-Stack&lt;/b&gt; experiences&lt;/li&gt;
+        &lt;li&gt;💡 Exploring &lt;b&gt;LLMs&lt;/b&gt; & &lt;b&gt;Automation&lt;/b&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h3&gt;🔗 Quick Links&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;👨‍💻 &lt;a href="https://digeee.github.io/Portfolio/"&gt;Portfolio Website&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;💬 Ask me about &lt;b&gt;Laravel & MERN Stack&lt;/b&gt;&lt;/li&gt;
+        &lt;li&gt;📧 &lt;a href="mailto:digee12@gmail.com"&gt;digee12@gmail.com&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/td&gt;
+    &lt;td width="50%" valign="top"&gt;
+      &lt;img align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" alt="Coding Animation" /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github-usercontent.com/raw/digeee/digeee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 🛠 Tech Arsenal
+
+### Frontend & Mobile 💻📱
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,js" alt="Frontend" /&gt;&nbsp;&nbsp;
+  &lt;img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" alt="Styling" /&gt;&nbsp;&nbsp;
+  &lt;img src="https://skillicons.dev/icons?i=react,flutter,android,ios" alt="Mobile" /&gt;
+&lt;/div&gt;
+
+### Backend & DevOps ⚙️🐳
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=laravel,nodejs,php,python" alt="Backend" /&gt;&nbsp;&nbsp;
+  &lt;img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" alt="Database" /&gt;&nbsp;&nbsp;
+  &lt;img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" alt="DevOps" /&gt;
+&lt;/div&gt;
+
+### Tools & Platforms 🔧
+&lt;div align="center"&gt;
+  &lt;img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" alt="Tools" /&gt;&nbsp;&nbsp;
+  &lt;img src="https://skillicons.dev/icons?i=ai,n8n,automation" alt="AI Tools" /&gt;
+&lt;/div&gt;
+
+---
+
+## 🏆 GitHub Trophies
+
+&lt;div align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=digeee&theme=radical&no-frame=true&column=7&title=MultiLanguage,Commits,PullRequest,Repositories,Reviews,Stars,Followers" alt="GitHub Trophies" /&gt;
+&lt;/div&gt;
+
+---
+
+## 🐍 Contribution Graph
+
+&lt;div align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/digeee/digeee/output/github-contribution-grid-snake.svg" alt="Snake Animation" /&gt;
+&lt;/div&gt;
 
 ---
 
 ## 📫 Let's Connect!
 
-<div align="left">
-  <a href="https://linkedin.com/in/jeganathan-digevan" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:digee12@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1OBp9uSMeXdpum-W6jmcmaIC0P0VlRYVD/view" target="blank">
-    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-  </a>
-</div>
+&lt;div align="center"&gt;
+  &lt;a href="https://linkedin.com/in/jeganathan-digevan" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:digee12@gmail.com" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://digeee.github.io/Portfolio/" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://drive.google.com/file/d/1OBp9uSMeXdpum-W6jmcmaIC0P0VlRYVD/view" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
 
-<br />
+---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+## 💬 Random Dev Quote
+
+&lt;div align="center"&gt;
+  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" /&gt;
+&lt;/div&gt;
+
+---
+
+## 🙏 Support
+
+&lt;div align="center"&gt;
+  &lt;p&gt;If you like my work, consider supporting me:&lt;/p&gt;
+  &lt;a href="https://github.com/sponsors/digeee" target="_blank"&gt;
+    &lt;img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Sponsor" /&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=30" alt="Footer" /&gt;
+&lt;/div&gt;
+
+---
+
+&lt;div align="center"&gt;
+  &lt;p&gt;&lt;i&gt;Last updated: December 2025&lt;/i&gt;&lt;/p&gt;
+&lt;/div&gt;

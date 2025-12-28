@@ -11,7 +11,7 @@
 
 ## 🎯 About Me
 
-- 🔭 Currently working on **ExpenseTracker**
+- 🔭 Currently working on **AI & N8N Projects**
 - 🌱 Learning **React Native**
 - 👨‍💻 Portfolio: [digeee.github.io/Portfolio/](https://digeee.github.io/Portfolio/ )
 - 💬 Ask me about **Laravel, MERN Stack**

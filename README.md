@@ -1,91 +1,96 @@
-<h1 align="center">👋 Hi, I'm Digevan</h1>
-<h3 align="center">💻 Passionate FullStack Developer from Sri Lanka</h3>
-
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=digeee&label=Profile%20views&color=7C3AED&style=for-the-badge )
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hi,%20I'm%20Digevan&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
+  <h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=FullStack+Developer;AI+%26+n8n+Specialist;MERN+Stack+Enthusiast;React+Native+Learner" alt="Typing SVG" />
+    </a>
+  </h3>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=digeee&label=Profile%20views&color=7C3AED&style=for-the-badge" />
+  </p>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+---
 
-## 🎯 About Me
+## ⚡ Quick Start
 
-- 🔭 Currently working on **AI & N8N Projects**
-- 🌱 Learning **React Native**
-- 👨‍💻 Portfolio: [digeee.github.io/Portfolio/](https://digeee.github.io/Portfolio/ )
-- 💬 Ask me about **Laravel, MERN Stack**
-- 📫 Reach me: **digee12@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1OBp9uSMeXdpum-W6jmcmaIC0P0VlRYVD/view )
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm Up To</h3>
+      <ul>
+        <li>🔭 Currently building <b>AI Workflows</b> with <b>n8n</b></li>
+        <li>🌱 Mastering <b>React Native</b> for mobile magic</li>
+        <li>👨‍💻 Explore my <a href="https://digeee.github.io/Portfolio/">Portfolio</a></li>
+        <li>💬 Ask me about <b>Laravel & MERN</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img align="right" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
+---
 
-## 🔗 Connect With Me
+## 🛠 My Digital Toolbox
 
-<p align="left">
-<a href="https://linkedin.com/in/jeganathan-digevan " target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white " alt="jeganathan-digevan" />
-</a>
-<a href="https://digeee.github.io/Portfolio/ " target="blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=react&logoColor=white " alt="portfolio" />
-</a>
-<a href="mailto:digee12@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white " alt="email" />
-</a>
-</p>
+### 🎨 Frontend & Mobile
+> Creating seamless user experiences with modern frameworks.
 
-## 💻 Tech Stack
+| | | |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react,vue,ts,js" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" /> | <img src="https://skillicons.dev/icons?i=react,flutter,android" /> |
 
-### Frontend & Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D " />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white " />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black " />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white " />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white " />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white " />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white " />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB " />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white " />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white " />
-</p>
+### ⚙️ Backend & Infrastructure
+> Building robust, scalable server-side architectures.
 
-### Backend & Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white " />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white " />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white " />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white " />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white " />
-</p>
+| | | |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=laravel,nodejs,php" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" /> | <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" /> |
 
-### Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white " />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white " />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black " />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white " />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white " />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white " />
-</p>
+---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=digeee&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" alt="Top Languages" width="400" />
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&locale=en&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" alt="GitHub Stats" width="400" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak" width="400" />
-
-*Streak stats may take a moment to load (Heroku free tier)*
-
+  <img src="https://github-readme-stats.vercel.app/api?username=digeee&show_icons=true&theme=radical&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=digeee&show_icons=true&theme=radical&layout=compact&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&icon_color=7C3AED&hide_border=true" width="43%" />
 </div>
 
-### 💫 *"Code. Commit. Repeat"* ☕
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digeee&theme=radical&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=FFFFFF&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github-usercontent.com/raw/digeee/digeee/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="left">
+  <a href="https://linkedin.com/in/jeganathan-digevan" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:digee12@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1OBp9uSMeXdpum-W6jmcmaIC0P0VlRYVD/view" target="blank">
+    <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>

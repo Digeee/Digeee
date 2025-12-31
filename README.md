@@ -32,7 +32,7 @@ const digevan = {
         databases: ["MongoDB", "MySQL", "Firebase"],
         tools: ["Docker", "n8n", "Git", "Postman"]
     },
-    funFact: "I turn coffee into code ☕ → 💻"
+    funFact: "Code → Commit → Coffee → Repeat → ☕ → 💻"
 };
 ```
 

@@ -56,7 +56,7 @@ const digevan = {
     </td>
     <td width="50%">
       
-### 💡 Goals for 2025
+### 💡 Goals for 2026
 - [ ] Master React Native & publish apps
 - [ ] Contribute to 10+ open source projects
 - [ ] Build 5 full-stack MERN applications

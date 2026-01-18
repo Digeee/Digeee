@@ -48,6 +48,7 @@ const digevan = {
       
 ### 🔭 Projects & Learning
 - 🤖 Building **AI-powered automation workflows** with **n8n**
+- 🔄 Creating smart workflows with AI integrations
 - 📱 Developing cross-platform apps with **React Native**
 - 🎨 Creating stunning UIs with **Tailwind CSS**
 - 🔐 Implementing secure authentication systems

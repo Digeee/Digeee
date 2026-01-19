@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
-const digevan = {
+const Digevan = {
     location: "Sri Lanka 🇱🇰",
     role: "FullStack Developer",
     expertise: ["Web Development", "AI Workflows", "Mobile Apps"],

@@ -61,7 +61,7 @@ const Digevan = {
 - [ ] Master React Native & publish apps
 - [ ] Contribute to 10+ open source projects
 - [ ] Build 5 full-stack MERN applications
-- [ ] Learn advanced AI/ML integration
+- [ ] Learn advanced AI/ML integrations
 - [ ] Grow developer community presence
 
     </td>

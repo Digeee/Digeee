@@ -71,7 +71,7 @@ const Digevan = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools 🛠️
 
 <div align="center">
 
